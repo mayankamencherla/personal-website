@@ -140,6 +140,12 @@ nav#main ul li a{
     margin-top: 20px;
 }
 
+.feature #mac{
+    height: 300px;
+    width: auto;
+    float: right;
+}
+
 .feature h1{
     font-family: 'Open Sans', sans-serif;
     font-size: 5.5em;

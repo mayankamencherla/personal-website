@@ -1,0 +1,11 @@
+/*
+** Body
+*/
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+body p{
+    margin-left: 10px;
+    text-align: center;
+}

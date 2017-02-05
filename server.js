@@ -18,16 +18,16 @@ app.get('/', (req, res) => {
     res.render('index.html');
 });
 
+app.get('/about', (req, res) => {
+    res.render('about.html');
+});
+
 app.get('/resume', (req, res) => {
     res.send('resume page');
 });
 
 app.get('/blog', (req, res) => {
     res.send('blog page');
-});
-
-app.get('/about', (req, res) => {
-    res.send('about page');
 });
 
 app.get('/contact', (req, res) => {

@@ -20,7 +20,7 @@ header#main .brand a{
     display: block;
     font-family: 'Cookie', cursive;
     font-size: 3em;
-    color: #393f4a;
+    color: #fff;
     margin-bottom: 20px;
 }
 
@@ -36,12 +36,8 @@ nav#main ul{
 
 nav#main ul li{
     display: inline-block;
-    margin-right: 20px;
-}
-
-nav#main ul li .button{
-    margin-right: 0;
-    margin-top: 10px;
+    margin-right: 40px;
+    margin-top: 15px;
 }
 
 nav#main ul li a{
@@ -50,8 +46,8 @@ nav#main ul li a{
     font-weight: 600;
 }
 
-nav#main ul li a:not(.button){
-    color: #393f4a;
+nav#main ul li a{
+    color: #fff;
 }
 
 /*

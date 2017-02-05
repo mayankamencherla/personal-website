@@ -68,8 +68,8 @@ nav#main ul li a{
     background-color: #f8bc3b;
 }
 
-.background-green{
-    background-color: #27ae60;
+.background-dark-blue{
+    background-color: #01579b;
 }
 
 .background-grey{
@@ -187,12 +187,19 @@ nav#main ul li a{
 
 .recent p{
     margin-botton: 60;
-    color: #96eaba;
+    color: #e1f5fe;
 }
 
 .recent .item{
-    padding: 100px 0;
-    margin-top: 30px;
+    padding: 5px 0;
+    margin-top: 20px;
+}
+
+.recent .item img{
+    height: 300px;
+    width: auto;
+    border: 5px solid white;
+    border-radius: 4px;
 }
 
 /*styling anchor in ul*/
